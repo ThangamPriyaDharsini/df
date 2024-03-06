@@ -1,0 +1,9 @@
+{
+	"name": "dfds",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "southindia"
+}
